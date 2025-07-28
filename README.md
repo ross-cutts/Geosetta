@@ -1,8 +1,5 @@
 # Geosetta
 
-<p align="center">
-  <img src="https://geosetta.org/static/homepage/geosetta_logo.png" alt="Geosetta Logo" width="200"/>
-</p>
 
 <p align="center">
   <strong>The most comprehensive geotechnical database platform</strong>
